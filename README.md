@@ -4,7 +4,7 @@
 
 <strong>FILES</strong>
 <ul>
-<li><strong>Images:</strong>
+<li><strong>Images: (<em>Directory</em>)</strong>
   <ul>
   <li>bacteria.jpg (<em>File</em>)
   <li>bubble_chart.png (<em>File</em>)
@@ -22,11 +22,11 @@
   <li>pie_chart.png (<em>File</em>)
   <li>provision_database.png (<em>File</em>)
   </ul>
-<li><strong>data:</strong>
+<li><strong>data: (<em>Directory</em>)</strong>
   <ul>
   <li>samples.json (<em>File</em>)
   </ul>
-<li><strong>static/js:</strong>
+<li><strong>static/js: (<em>Directory</em>)</strong>
   <ul>
   <li>.gitkeep (<em>File</em>)
   <li>app.js (<em>File</em>)
